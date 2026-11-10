@@ -1,4 +1,4 @@
-# Resumen de la Unidad 1: Circuitos de Corriente Directa
+# Sintesis de la Unidad 1: Circuitos de Corriente Directa
 
 ---
 
